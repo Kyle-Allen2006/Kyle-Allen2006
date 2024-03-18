@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hello, I'm Kyle. </h1>
 
-<!--
-**Kyle-Allen2006/Kyle-Allen2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- [Active Directory Home Lab]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Certifications </h2>
+
+- [Google IT Support Professional](https://coursera.org/share/cb571974a331b79f667836c48eee320f)
+- [Google Cybersecurity Professional](https://coursera.org/share/6c48cdad8d666fe9ccf2384f7b4612b3)
+
+<h2> 🤳 Connect with me:</h2>
+

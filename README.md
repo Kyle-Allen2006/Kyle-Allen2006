@@ -49,6 +49,13 @@ After 16+ years in automation and controls, I’m bringing that same **problem-s
 
 ---
 
+## 📄 Resume
+
+You can view or download my latest resume below:
+
+👉 [**Download Resume (PDF)**](./Kyle_Allen_Resume.pdf)
+
+
 ## 📜 Certifications
 
 - [WGU Front End Developer](https://badgr.com/public/assertions/SOFG8gGgS_2sU7PCCNbg1Q?identity__email=kall700%40wgu.edu)

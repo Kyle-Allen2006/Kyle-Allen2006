@@ -44,13 +44,14 @@ After 16+ years in automation and controls, I’m bringing that same **problem-s
 
 ## 📫 Let’s Connect
 
-- 📧 kylen.allen2019@gmail.com  
+- 📧 kyle.n.allen2019@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kyle-allen-255547bb)
 
 ---
 
 ## 📜 Certifications
 
+- [WGU Front End Developer](https://badgr.com/public/assertions/SOFG8gGgS_2sU7PCCNbg1Q?identity__email=kall700%40wgu.edu)
 - [Google IT Support Professional](https://coursera.org/share/cb571974a331b79f667836c48eeee320f)  
 - [Google Cybersecurity Professional](https://coursera.org/share/6c48cdad8d66f6e9ccf2384f7b4612b3)  
 - [Google Data Analytics](https://coursera.org/share/6861f8c8576c1384f88f4488ea7a396d)  

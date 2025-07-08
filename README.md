@@ -1,4 +1,8 @@
-<h1>Hello, I'm Kyle. </h1>
+# 👋 Hi there, I'm Kyle Allen
+
+I'm a future-focused **software developer** with a background in **robotics and industrial automation** — now diving deep into full-stack web development.
+
+After 16+ years in automation and controls, I’m bringing that same **problem-solving mindset** into software. I’m currently pursuing my degree in **Software Engineering** while building professional-grade projects to showcase what I can do.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

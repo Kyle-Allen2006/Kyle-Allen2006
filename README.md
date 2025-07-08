@@ -15,39 +15,44 @@ After 16+ years in automation and controls, I’m bringing that same **problem-s
 - 🔹 [**D280 Angular Map App**](https://github.com/kyle-allen2006/d280-javascript-programming-angular)  
   A completed interactive map app for WGU’s JavaScript Programming course. Built with Angular CLI and TypeScript.
 
-## 🧰 Tech Stack
+---
 
-```text
-Languages:   JavaScript · TypeScript · HTML · CSS · Bash
-Frameworks:  React · Node.js · Express · Angular
-Tools:       Git & GitHub · VS Code · Postman · MongoDB Atlas · Vite
+## 💼 Tech Stack
+
+**Languages:** JavaScript • TypeScript • HTML • CSS • Bash  
+**Frameworks:** React • Node.js • Express • Angular  
+**Tools:** Git & GitHub • VS Code • Postman • MongoDB Atlas • Vite
+
+---
 
 ## 🎯 Currently Working On
 
 - Building deployable full-stack apps for my portfolio  
-- Strengthening Javascript, Python, & backend architecture skills  
+- Strengthening JavaScript, Python, & backend architecture skills  
 - Exploring deployment options (web & desktop apps)
 
 ---
 
-## 💼 About Me
+## 🧠 About Me
 
 - 🎓 Software Engineering student at WGU  
 - 🤖 Former process, robotics, & automation engineer  
-- 🧠 Passionate about building real tools that people use  
-- 🧰 Obsessed with clean, well-documented code
+- 🛠 Passionate about building real tools that people use  
+- 📚 Obsessed with clean, well-documented code
 
 ---
 
 ## 📫 Let’s Connect
 
-- 📧 kyle.n.allen2019@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/kyle-allen-255547bb  
+- 📧 kylen.allen2019@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kyle-allen-255547bb)
 
-<h2> Certifications </h2>
+---
 
-- [Google IT Support Professional](https://coursera.org/share/cb571974a331b79f667836c48eee320f)
-- [Google Cybersecurity Professional](https://coursera.org/share/6c48cdad8d666fe9ccf2384f7b4612b3)
-- [Google Data Analytics](https://coursera.org/share/6861f8c8576c1384f88f4488ea73a96d)
-- [Google AI Essentials](https://coursera.org/share/ff0b978913b9bf7c6a4f87453266bb22)
-- [AWS Certified Cloud Practitioner](5f9b9c870ba84c99b0cb758548c4d1ba) 
+## 📜 Certifications
+
+- [Google IT Support Professional](https://coursera.org/share/cb571974a331b79f667836c48eeee320f)  
+- [Google Cybersecurity Professional](https://coursera.org/share/6c48cdad8d66f6e9ccf2384f7b4612b3)  
+- [Google Data Analytics](https://coursera.org/share/6861f8c8576c1384f88f4488ea7a396d)  
+- [Google AI Essentials](https://coursera.org/share/ff0b979813b9bf7c6a4f87453266bb22)  
+- [AWS Certified Cloud Practitioner](https://coursera.org/share/5f9b9c87b0a84c99bcb758548c4d1ba)

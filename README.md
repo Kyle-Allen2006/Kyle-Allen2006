@@ -6,6 +6,9 @@ After 16+ years in automation and controls, I’m bringing that same **problem-s
 
 ## 🚀 Featured Software Development Projects
 
+- 🔹 [**Port Scanner**](https://github.com/kyle-allen2006/port_scanner)
+  This is a basic asynchronous port scanner written in Rust using [`tokio`] and later ['future']. This is my first self-project in Rust to better learn the programming language.
+  
 - 🔹 [**DevNotes App**](https://github.com/kyle-allen2006/devnotes-app)  
   A clean and responsive front-end note-taking tool where developers can manage notes per project, with light/dark mode support and local storage persistence. Expected to be a long term project that extends into mobile and ultimately into a stand alone application to help with a wide range of tasks. *(Built with React)*
 

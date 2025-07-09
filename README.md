@@ -19,7 +19,7 @@ After 16+ years in automation and controls, I’m bringing that same **problem-s
 
 ## 💼 Tech Stack
 
-**Languages:** JavaScript • TypeScript • HTML • CSS • Bash  
+**Languages:** JavaScript • Rust • TypeScript • HTML • CSS • Bash  
 **Frameworks:** React • Node.js • Express • Angular  
 **Tools:** Git & GitHub • VS Code • Postman • MongoDB Atlas • Vite
 

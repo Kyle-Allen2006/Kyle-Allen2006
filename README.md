@@ -18,11 +18,14 @@ After 16+ years in automation and controls, I’m bringing that same **problem-s
 - 🔹 [**D280 Angular Map App**](https://github.com/kyle-allen2006/d280-javascript-programming-angular)  
   A completed interactive map app for WGU’s JavaScript Programming course. Built with Angular CLI and TypeScript.
 
+- 🔹 [**System Health Checker**](https://github.com/Kyle-Allen2006/sys-health-checker)
+  A simple Python tool to monitor system health and resource usage I made for a self project to utilize Python code. 
+
 ---
 
 ## 💼 Tech Stack
 
-**Languages:** JavaScript • Rust • TypeScript • HTML • CSS • Bash  
+**Languages:** JavaScript • Rust • TypeScript • Python • HTML • CSS • Bash  
 **Frameworks:** React • Node.js • Express • Angular  
 **Tools:** Git & GitHub • VS Code • Postman • MongoDB Atlas • Vite
 

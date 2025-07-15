@@ -1,10 +1,10 @@
-# 👋 Hello and welcome, I'm Kyle Allen
+# Hello and welcome, I'm Kyle Allen
 
-I'm a future-focused **software developer** with a background in **robotics and industrial automation** — now diving deep into full-stack web development.
+I'm a future-focused software developer with a background in robotics and industrial automation — now diving deep into full-stack web development.
 
-After 16+ years in automation and controls, I’m bringing that same **problem-solving mindset** into software. I’m currently pursuing my degree in **Software Engineering** while building professional-grade projects to showcase what I can do.
+After 16+ years in automation and controls, I’m bringing that same problem-solving mindset into software. I’m currently pursuing my degree in Software Engineering while building professional-grade projects to showcase what I can do.
 
-## 🚀 Featured Software Development Projects
+## Featured Software Development Projects
 
 - 🔹 [**Port Scanner**](https://github.com/kyle-allen2006/port_scanner)
   This is a basic asynchronous port scanner written in Rust using [`tokio`] and later [`future`]. This is my first self-project in Rust to better learn the programming language.
@@ -23,7 +23,7 @@ After 16+ years in automation and controls, I’m bringing that same **problem-s
 
 ---
 
-## 💼 Tech Stack
+## Tech Stack
 
 **Languages:** JavaScript • Rust • TypeScript • Python • HTML • CSS • Bash  
 **Frameworks:** React • Node.js • Express • Angular  
@@ -31,7 +31,7 @@ After 16+ years in automation and controls, I’m bringing that same **problem-s
 
 ---
 
-## 🎯 Currently Working On
+## Currently Working On
 
 - Building deployable full-stack apps for my portfolio  
 - Strengthening JavaScript, Python, & backend architecture skills  
@@ -39,30 +39,30 @@ After 16+ years in automation and controls, I’m bringing that same **problem-s
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 Software Engineering student at WGU  
-- 🤖 Former process, robotics, & automation engineer  
-- 🛠 Passionate about building real tools that people use  
-- 📚 Obsessed with clean, well-documented code
-
----
-
-## 📫 Let’s Connect
-
-- 📧 kyle.n.allen2019@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kyle-allen-255547bb)
+-  Software Engineering student at WGU  
+-  Former process, robotics, & automation engineer  
+-  Passionate about building real tools that people use  
+-  Obsessed with clean, well-documented code
 
 ---
 
-## 📄 Resume
+##  Let’s Connect
+
+-  kyle.n.allen2019@gmail.com  
+-  [LinkedIn](https://www.linkedin.com/in/kyle-allen-255547bb)
+
+---
+
+##  Resume
 
 You can view or download my latest resume below:
 
-👉 [**Download Resume (PDF)**](./Kyle_Allen_Resume.pdf)
+ [**Download Resume (PDF)**](./Kyle_Allen_Resume.pdf)
 
 
-## 📜 Certifications
+##  Certifications
 
 - [WGU Front End Developer](https://badgr.com/public/assertions/SOFG8gGgS_2sU7PCCNbg1Q?identity__email=kall700%40wgu.edu)
 - [Google IT Support Professional](https://coursera.org/share/cb571974a331b79f667836c48eeee320f)  

@@ -69,4 +69,4 @@ You can view or download my latest resume below:
 - [Google Cybersecurity Professional](https://coursera.org/share/6c48cdad8d66f6e9ccf2384f7b4612b3)  
 - [Google Data Analytics](https://coursera.org/share/6861f8c8576c1384f88f4488ea7a396d)  
 - [Google AI Essentials](https://coursera.org/share/ff0b979813b9bf7c6a4f87453266bb22)  
-- [AWS Certified Cloud Practitioner](https://coursera.org/share/5f9b9c87b0a84c99bcb758548c4d1ba)
+- [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/5f9b9c870ba84c99b0cb758548c4d1ba)

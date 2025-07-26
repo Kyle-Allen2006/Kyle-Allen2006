@@ -4,7 +4,7 @@ I'm a future-focused software developer with a background in robotics and indust
 
 After 16+ years in automation and controls, I’m bringing that same problem-solving mindset into software. I’m currently pursuing my degree in Software Engineering while building professional-grade projects to showcase what I can do.
 
-## Featured Software Development Projects
+## Featured Software Development Projects and IT Projects
 
 - 🔹 [**Port Scanner**](https://github.com/kyle-allen2006/port_scanner)
   This is a basic asynchronous port scanner written in Rust using [`tokio`] and later [`future`]. This is my first self-project in Rust to better learn the programming language.

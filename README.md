@@ -59,7 +59,7 @@ After 16+ years in automation and controls, I’m bringing that same problem-sol
 
 You can view or download my latest resume below:
 
- [**Download Resume (PDF)**]
+ [![Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-blue)](Kyle_Allen_Software-Engineer-NEpub.pdf)
 
 
 ##  Certifications

@@ -59,7 +59,7 @@ After 16+ years in automation and controls, I’m bringing that same problem-sol
 
 You can view or download my latest resume below:
 
- [**Download Resume (PDF)**](./Kyle_Allen_Resume.pdf)
+ [**Download Resume (PDF)**]
 
 
 ##  Certifications
